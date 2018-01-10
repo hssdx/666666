@@ -3,7 +3,7 @@
 #### 测试方法
      由于这个题目接口只有在答题时候才有数据，下面我提供一种测试方法</br>
      在命令行中输入 python -m http.server 用python内置的服务器</br>
-     然后桌面上创建一个Jason文件,Code里面有提供Json格式样本</br>
+     然后桌面上创建一个Json文件,Code里面有提供Json格式样本</br>
      在代码requests.get()中的URL换成http://localhost:8000/Desktop/文件名.json</br>
      
 
