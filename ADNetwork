@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:38:57.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hQszK5NQAVqlc5KtFkA4" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:42:38.632Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="PnWsacF2pYkdQ-RNxZdQ" version="13.10.6" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1336" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -51,7 +51,7 @@
         <mxCell id="39150e848f15840c-10" value="ADNetwork" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="vK_pIqd3_G8u_MR3L7sq-13" vertex="1">
           <mxGeometry x="60" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vK_pIqd3_G8u_MR3L7sq-19" value="接口请求&lt;br&gt;预发环境注入等" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
+        <mxCell id="vK_pIqd3_G8u_MR3L7sq-19" value="接口请求；&lt;br&gt;预发环境注入；&lt;br&gt;接口签名；&lt;br&gt;reffer注入（预发csrf攻击）;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" vertex="1" parent="1">
           <mxGeometry x="750" y="75" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vK_pIqd3_G8u_MR3L7sq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="39150e848f15840c-3" target="vK_pIqd3_G8u_MR3L7sq-19">
