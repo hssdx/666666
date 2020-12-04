@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T08:00:39.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="jeO7DIz-P2SoBBo503z9" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T08:07:05.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="LaZkV3_yLO1GcNBDqa3m" version="13.10.8" type="github">
   <diagram id="ipAveFoKBc3akm_nh1-n" name="Page-1">
     <mxGraphModel dx="1136" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,53 +154,40 @@
         <mxCell id="d_q81xPoU0teEAfN5eBv-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-46" target="d_q81xPoU0teEAfN5eBv-47">
           <mxGeometry x="824.87" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-49" target="d_q81xPoU0teEAfN5eBv-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-49" value="发现编译失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="894.2717094017094" y="240" width="118.97435897435898" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-47" target="d_q81xPoU0teEAfN5eBv-49">
           <mxGeometry x="824.87" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-51" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;去打包机查看日志&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;日志太大无法浏览器打开&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;curl命令下载日志，用VSC打开&lt;/span&gt;&lt;/li&gt;&lt;li&gt;定位到问题，需要制定xcode12进行打包&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="824.87" y="330" width="257.77777777777777" height="70" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-51" target="d_q81xPoU0teEAfN5eBv-81">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-49" target="d_q81xPoU0teEAfN5eBv-51">
-          <mxGeometry x="824.87" y="140" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-51" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span&gt;定位到问题，需要制定xcode12进行打包&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="355" width="257.77777777777777" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-53" value="询问同学B，增加打包机配置参数，指定xcode版本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="894.2717094017094" y="429" width="118.97435897435898" height="60" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-73" value="问题解决，继续打包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="894.2717094017094" y="490" width="118.97435897435898" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-51" target="d_q81xPoU0teEAfN5eBv-53">
-          <mxGeometry x="824.87" y="140" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-80" target="d_q81xPoU0teEAfN5eBv-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="320" />
+              <mxPoint x="993" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-55" value="继续打包，仍失败" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894.2717094017094" y="519" width="118.97435897435898" height="60" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-80" value="&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;&lt;span class=&quot;author-6553421406888001806&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;文档:&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;&lt;span class=&quot;author-6553421406888001806&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;《打包机日志捞取&amp;amp;定位编译错误》&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="240" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-53" target="d_q81xPoU0teEAfN5eBv-55">
-          <mxGeometry x="824.87" y="140" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-81" target="d_q81xPoU0teEAfN5eBv-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-57" value="再次询问同学B，得知需要找打包机同学进行配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="894.2717094017094" y="610" width="118.97435897435898" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-55" target="d_q81xPoU0teEAfN5eBv-57">
-          <mxGeometry x="824.87" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-73" value="问题解决继续打包" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="894.2717094017094" y="730" width="118.97435897435898" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-57" target="d_q81xPoU0teEAfN5eBv-73">
-          <mxGeometry x="824.87" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-75" value="B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="809.9982051282051" y="440" width="29.743589743589745" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=classic;endFill=1;dashed=1;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-53" target="d_q81xPoU0teEAfN5eBv-75">
-          <mxGeometry x="824.87" y="140" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-77" value="B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="809.9982051282051" y="620" width="29.743589743589745" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d_q81xPoU0teEAfN5eBv-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="d_q81xPoU0teEAfN5eBv-57" target="d_q81xPoU0teEAfN5eBv-77">
-          <mxGeometry x="809.9982051282051" y="140" as="geometry" />
+        <mxCell id="d_q81xPoU0teEAfN5eBv-81" value="&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;&lt;span class=&quot;author-6553421406888001806&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;文档:&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;《&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;打包机指定xcode版本修改&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;》&lt;/span&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="360" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
