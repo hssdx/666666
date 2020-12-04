@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T08:32:16.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="7W6MWN8sJFB8Wqhly8jk" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T08:36:08.585Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="DbngW3lIMO4ar3G0uecA" version="13.10.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1623" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -28,23 +28,20 @@
         <mxCell id="6na35ZZruZR1vUjbt00h-21627" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8E38;gradientColor=none;opacity=50;" vertex="1" parent="6na35ZZruZR1vUjbt00h-21596">
           <mxGeometry x="235" y="520" width="200" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21634" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF8E38;gradientColor=none;opacity=50;" vertex="1" parent="6na35ZZruZR1vUjbt00h-21596">
+          <mxGeometry x="130" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21598" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="6na35ZZruZR1vUjbt00h-21597" target="6na35ZZruZR1vUjbt00h-21595">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21597" value="不轮播，不使用SlideView" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="870" y="269.5" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="6na35ZZruZR1vUjbt00h-21600" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6na35ZZruZR1vUjbt00h-21599" target="6na35ZZruZR1vUjbt00h-21592">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1005" y="40" />
-              <mxPoint x="360" y="40" />
-              <mxPoint x="360" y="140" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21633" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6na35ZZruZR1vUjbt00h-21599" target="6na35ZZruZR1vUjbt00h-21592">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21599" value="轮播，使用SlidePagerView实现" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="870" y="70" width="210" height="70" as="geometry" />
+          <mxGeometry x="860" y="-120" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21602" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;opacity=50;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="1060" width="180" height="260" as="geometry" />
@@ -121,6 +118,17 @@
         </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21622" value="创意号内容" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="594" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21636" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=-0.003;exitY=0.082;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6na35ZZruZR1vUjbt00h-21635" target="6na35ZZruZR1vUjbt00h-21634">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="858" y="-23" />
+              <mxPoint x="525" y="-23" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21635" value="&lt;ol class=&quot;number1 ace-line ol-idyXrD29KH&quot; style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; font-size: 16px ; line-height: 26.88px ; color: rgb(31 , 35 , 41) ; margin: 0px&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;企业号”使用图片，而不是字体方案&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;author-6553421406888001806 op-symbol&quot; style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;Tab item 的 title字段下发“企业号”，background url字段下发 &lt;/span&gt;&lt;span class=&quot;author-6553421406888001806 op-symbol b&quot; style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;b&gt;图片地址&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;图片下载完成之前，展示 title文本“企业号”&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;图片下载完成之后，展示图片，隐藏文本&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;p&gt;&lt;/p&gt;&lt;/ol&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;opacity=50;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="860" y="-40" width="550" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
