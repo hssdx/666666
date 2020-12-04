@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T07:03:29.722Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Z8ew90XcbHhaWwrbjmjU" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:04:23.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="xAB6cOpA6dyJNnehBxSt" version="13.10.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1623" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -27,6 +27,12 @@
         </mxCell>
         <mxCell id="6na35ZZruZR1vUjbt00h-21597" value="不轮播，不使用SlideView" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FF8E38;gradientColor=none;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="910" y="269.5" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21600" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="6na35ZZruZR1vUjbt00h-21599" target="6na35ZZruZR1vUjbt00h-21592">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6na35ZZruZR1vUjbt00h-21599" value="轮播，使用SlidePagerView实现" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#FF8E38;gradientColor=none;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="900" y="70" width="210" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
