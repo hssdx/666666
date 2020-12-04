@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T02:50:26.059Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="b1Xd84IKZQzX1dy9GENO" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T02:52:59.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="G5wLi_nJEo27nVc9HWK9" version="13.10.6" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1136" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -44,13 +44,30 @@
           <mxGeometry x="450" y="512" width="220" height="174" as="geometry" />
         </mxCell>
         <mxCell id="Mu8JzcuAda3ugYvxNqAj-6" value="线程池 Framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="260" width="280" height="60" as="geometry" />
+          <mxGeometry x="170" y="290" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu8JzcuAda3ugYvxNqAj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=diamond;endFill=1;" edge="1" parent="1" source="Mu8JzcuAda3ugYvxNqAj-7" target="Mu8JzcuAda3ugYvxNqAj-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu8JzcuAda3ugYvxNqAj-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=diamond;endFill=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mu8JzcuAda3ugYvxNqAj-7" target="Mu8JzcuAda3ugYvxNqAj-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="270" />
+              <mxPoint x="320" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mu8JzcuAda3ugYvxNqAj-7" value="IESInject协议层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu8JzcuAda3ugYvxNqAj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;" edge="1" parent="1" source="Mu8JzcuAda3ugYvxNqAj-8" target="Mu8JzcuAda3ugYvxNqAj-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mu8JzcuAda3ugYvxNqAj-8" value="文件批量上传模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mu8JzcuAda3ugYvxNqAj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=block;endFill=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mu8JzcuAda3ugYvxNqAj-9" target="Mu8JzcuAda3ugYvxNqAj-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mu8JzcuAda3ugYvxNqAj-9" value="文件批量导入模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="200" height="60" as="geometry" />
