@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T08:09:25.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-8sKjvftyGhnVPj8qbcZ" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T04:10:15.981Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="OPd1HxZ74JvkICjTUc5W" version="13.10.8" type="github">
   <diagram id="ipAveFoKBc3akm_nh1-n" name="Page-1">
-    <mxGraphModel dx="1136" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1336" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,6 +173,27 @@
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-81" value="&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;&lt;span class=&quot;author-6553421406888001806&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;文档:&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; line-height: 120% ; color: rgb(31 , 35 , 41)&quot;&gt;《&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;打包机指定xcode版本修改&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;》&lt;/span&gt;&lt;/p&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1110" y="360" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-89" value="ADFoundation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1180" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-90" value="ADUIKit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1180" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-91" value="ADNetwork" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1090" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-92" value="ADMedia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1090" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-93" value="XQ_DAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1090" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-94" value="BDModuleMediator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-95" value="ORM组件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1090" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
