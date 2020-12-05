@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T04:35:06.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HqRBb_-_fWRayv3cVNkT" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T04:36:38.972Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="oowLCmRF3bRVMwgQ35em" version="13.10.8" type="github">
   <diagram id="ipAveFoKBc3akm_nh1-n" name="Page-1">
     <mxGraphModel dx="1336" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -202,31 +202,34 @@
           <mxGeometry x="850" y="1109" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-99" value="账号SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-100" value="分享SDK" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-101" value="列表播放器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-102" value="调试页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="680" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-104" value="巨量创意" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="970" width="160" height="60" as="geometry" />
+          <mxGeometry x="260" y="950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-105" value="..." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="1020" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-106" value="巨量引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="970" width="140" height="60" as="geometry" />
+          <mxGeometry x="430" y="950" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-107" value="Ohayoo休闲游戏" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="970" width="160" height="60" as="geometry" />
+          <mxGeometry x="580" y="950" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_q81xPoU0teEAfN5eBv-108" value="互动小说" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="970" width="180" height="60" as="geometry" />
+          <mxGeometry x="750" y="950" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_q81xPoU0teEAfN5eBv-109" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1090" width="710" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
