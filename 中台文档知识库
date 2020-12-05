@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T05:09:35.245Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="Dl5E2my8XdIUGAz2uPRu" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T05:09:59.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="2qG5m7zluLBYPS-fZJ2I" version="13.10.9" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="1893" dy="2061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="2" value="中台知识库" style="whiteSpace=wrap;rounded=1;shadow=1;fillColor=#10739E;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontSize=24" parent="1" vertex="1">
           <mxGeometry x="610" y="-10" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="产品质量" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+        <mxCell id="3" value="产品质量" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="160" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="架构/框架" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+        <mxCell id="4" value="架构/框架" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="530" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="能力接入" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+        <mxCell id="6" value="能力接入" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="900" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="踩坑指南" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+        <mxCell id="7" value="踩坑指南" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1270" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="10" value="SUB-TASK 1" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
